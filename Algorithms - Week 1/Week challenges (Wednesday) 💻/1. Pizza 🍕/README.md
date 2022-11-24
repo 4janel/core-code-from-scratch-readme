@@ -1,10 +1,10 @@
-#Pizza 🍕
+# Pizza 🍕
 
-##Description
+## Description
 
 Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
 
-##Solution
+## Solution
 
 1. For this you need to buy pizza dough, cheese, ham and a round pan (if you don't have the ingredients at home, you could buy it).
 2. Open the dough and unwrapped it and pat it out and put the cheese and pepperoni on the dough.
