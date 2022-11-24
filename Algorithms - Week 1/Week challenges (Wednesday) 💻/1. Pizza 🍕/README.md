@@ -6,7 +6,8 @@ Design an algorithm to prepare a pizza from scratch. Define the ingredients, wha
 
 ## Solution
 
-1. For this you need to buy pizza dough, cheese, ham and a round pan (if you don't have the ingredients at home, you could buy it).
-2. Open the dough and unwrapped it and pat it out and put the cheese and pepperoni on the dough.
-3. Set the oven on 475 degrees put the pizza in the oven and wait 10-15 minutes.
-4. Take it out and enjoy!
+1. Para hacer la pizza se requiere masa de pizza, queso, jamón, un molde y salsa de tomate (si no se cuenta con los ingredientes en casa, se deben comprar).
+2. Abrir la masa, darle forma y untarle salsa.
+3. Agregarle el queso y jamón.
+5. Colocar la pizza en el horno a 475 grados y esperar de 10 a 15 minutos.
+6. ¡Disfrutarla!
