@@ -23,4 +23,4 @@ In the chest 'C' the message say "Only one of these chests has treasures." It me
 
 And finally we have the last message in chest 'A' "The middle chest has a treasure." Then we identify the two chests with a treasure.
 
-By chest 'A' statement, that means both 'A' and 'C' have treasure.
+By chest 'A' statement, that means both 'A' and 'C' have treasures.
