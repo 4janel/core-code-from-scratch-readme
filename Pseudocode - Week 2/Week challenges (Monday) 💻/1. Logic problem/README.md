@@ -27,4 +27,6 @@ Dan said that 3 people studied, then Charlie statement could be false if he is l
 
 And finally Eva said that 4 people studied, if it is false, 4 people didn't study.
 
+Alice, Charlie, Dan and Eva statement couldn't be true at the same time.
+
 Then Bob is telling the truth, because he was the only one who studied.
