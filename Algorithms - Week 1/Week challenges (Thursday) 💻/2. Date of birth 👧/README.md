@@ -10,4 +10,4 @@ Write pseudocode for an algorithm that calculates the age of a person based on d
     Print "Enter the year of birth: "
     Read year.
     age = 2022 - year
-    Print "Your age is",age.
+    Print "Your age is" ,age.
