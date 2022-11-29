@@ -25,8 +25,8 @@ The next statement by Charlie said that 2 people study, again, if he is lying, B
 
 Dan said that 3 people studied, then Charlie statement could be false if he is lying.
 
-And finally Eva said that 4 people studied, if it is false, 4 people didn't study.
+And finally Eva said that 4 people studied, if it is false, 4 people didn't study. But she may be including herself.
 
-Alice, Charlie, Dan and Eva statement couldn't be true at the same time.
+Bob and Charlie statements couldn't be true at the same time.
 
 Then Bob is telling the truth, because he was the only one who studied.
