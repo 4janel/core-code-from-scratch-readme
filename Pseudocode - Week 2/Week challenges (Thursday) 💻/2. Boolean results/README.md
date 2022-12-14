@@ -14,3 +14,26 @@ This is the code:
 	    e <- 100 <= 90
 	    f <- 40 >= 40
     FinAlgoritmo
+
+## Solution
+
+	Algoritmo Results
+		a <- 5 == 3
+	  // a = FALSE
+	  // Descrip: comparing if 5 is equal to 3, which results in FALSE
+		b <- 4 <> 3
+	  // a = TRUE
+	  // Descrip: comparing if 4 is different from 3, which results in TRUE
+		c <- 7 > 7
+	  // c = FALSE
+	  // Descrip: comparing if 7 is greater than 7, which results in FALSE
+		d <- 4 < 4
+	  // d = FALSE
+	  // Descrip: comparing if 4 is less than 4, which results in FALSE
+		e <- 100 <= 90
+	  // e = FALSE
+	  // Descrip: comparing if 100 is less than or equal to 90, which results in FALSE
+		f <- 40 >= 40
+	  // f = TRUE
+	  // Descrip: comparing if 40 is greater than or equal to 40, which returns TRUE as a result
+	FinAlgoritmo
