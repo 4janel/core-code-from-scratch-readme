@@ -6,36 +6,36 @@ You are going to learn about three main logical operations used in programming, 
 
 Operations:
 
-Remember that AND can be represented by &
+    Remember that AND can be represented by &
+    Remember that OR can be represented by |
+    Remember that NOT can be represented by ~
 
-Remember that OR can be represented by |
+## Solution
 
-Remember that NOT can be represented by ~
+T & T = T ✅
 
-T & T = T
+T & F = F ❌
 
-T & F = F
+F & T = T ❌
 
-F & T = T
+F & F = F ✅
 
-F & F = F
+T | T = T ✅
 
-T | T = T
+T | F = F ❌
 
-T | F = F
+F | T = T ✅
 
-F | T = T
+F | F = F ✅
 
-F | F = F
+~T = T ❌
 
-~T = T
+~F = T ✅
 
-~F = T
+(T & F) | (~F) = T ✅
 
-(T & F) | (~F) = T
+(T | F ) & (F | F) = T ❌
 
-(T | F ) & (F | F) = T
+~((T | F ) & (F | F)) & F = T ❌
 
-~((T | F ) & (F | F)) & F = T
-
-~((T | F ) & (F | F)) & T = F
+~((T | F ) & (F | F)) & T = F ❌
