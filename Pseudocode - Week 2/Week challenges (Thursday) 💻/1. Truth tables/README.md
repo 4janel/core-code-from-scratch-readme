@@ -14,7 +14,7 @@ Operations:
 
 T & T = T ✅
 
-T & F = F ❌
+T & F = F ✅
 
 F & T = T ❌
 
