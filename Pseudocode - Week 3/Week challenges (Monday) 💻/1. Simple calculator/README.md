@@ -14,11 +14,14 @@ The calculator must ask the user for two numbers, after asking for the two numbe
 
 First step (writing code):
 
-
+![code](https://user-images.githubusercontent.com/116694224/208204294-3640c55b-3adc-4481-ab50-0eef27321b84.jpg)
 
 Second step (executing):
 
 if the operation is correct
 
+![executing correct](https://user-images.githubusercontent.com/116694224/208204307-5a7efbab-05a3-4cfb-aeef-d5813834d959.jpg)
 
 if the operation is not entered
+
+![executing error](https://user-images.githubusercontent.com/116694224/208204320-82c26129-1033-42a9-93ce-619d834a4b81.jpg)
