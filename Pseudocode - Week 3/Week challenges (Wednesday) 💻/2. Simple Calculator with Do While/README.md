@@ -8,4 +8,8 @@ For this challenge we are going to use the simple calculator that we made in the
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/208204881-0cdb37bd-4eba-4bae-a7a3-fe6ccb27f1bf.jpg)
+
 Second step (Output):
+
+![output](https://user-images.githubusercontent.com/116694224/208204888-78e789f3-3a50-4ff5-9039-acf825321878.jpg)
