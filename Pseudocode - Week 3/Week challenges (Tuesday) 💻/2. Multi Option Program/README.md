@@ -20,5 +20,18 @@ When the user enters an incorrect option, a message should be printed saying tha
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/208204689-f426f4ea-0119-4e42-960b-5fc68033bf36.jpg)
 
 Second step (executing):
+
+Option 1
+
+![option1](https://user-images.githubusercontent.com/116694224/208204695-8930ec35-b2bb-474a-afd3-06e7a1ecb5b7.jpg)
+
+Option 2
+
+![option2](https://user-images.githubusercontent.com/116694224/208204697-d7d9c0bd-a0b5-44a4-ab30-3de5694c42fe.jpg)
+
+Option 3
+
+![option3](https://user-images.githubusercontent.com/116694224/208204704-95c6b0c7-13cd-4073-9695-d8d5bedf0724.jpg)
