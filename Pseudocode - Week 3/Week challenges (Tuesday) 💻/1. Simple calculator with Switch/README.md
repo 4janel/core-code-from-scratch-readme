@@ -16,5 +16,15 @@ The calculator must ask the user for two numbers, after asking for the two numbe
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/208204568-31702ab3-b590-49dd-9ea6-245df19af799.jpg)
+
 
 Second step (executing):
+
+Correct
+
+![output correct](https://user-images.githubusercontent.com/116694224/208204575-7588d437-8e91-4c68-9b0d-fd8c259559a4.jpg)
+
+Incorrect
+
+![output incorrect](https://user-images.githubusercontent.com/116694224/208204584-a4ad7cb7-74fe-4356-8991-53601c32113c.jpg)
