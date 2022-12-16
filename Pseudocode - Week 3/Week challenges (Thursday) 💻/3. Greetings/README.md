@@ -14,4 +14,8 @@ For this challenge, you need to create a program that prints a greeting based on
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/208206058-16420c71-1221-4622-82ec-01a6043e7894.jpg)
+
 Second step (Output):
+
+![output](https://user-images.githubusercontent.com/116694224/208206082-8ad12171-caa3-4086-ba84-7d88cb5d5a96.jpg)
