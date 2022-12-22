@@ -1,4 +1,4 @@
-# Simple Calculator with Switch
+# Multi Pption Program
 
 ## Description
 
