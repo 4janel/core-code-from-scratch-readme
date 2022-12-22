@@ -1,6 +1,6 @@
 # core-code-from-scratch-readme
 
-## Challenges
+## Completed Challenges
 
 * **Week 1 : Algorithms**
   * Week challenges (Wednesday) 💻
