@@ -8,4 +8,8 @@ Make a program that asks how many sales the seller had, Once the number of sales
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/209035656-0c6a77b4-ba89-49fa-bd62-07ad2ab0346f.jpg)
+
 Second step (Output):
+
+![output](https://user-images.githubusercontent.com/116694224/209035676-1a3f25a7-3b91-4b2b-8a94-206068f55189.jpg)
