@@ -1,4 +1,4 @@
-# Multi Pption Program
+# Multi Option Program
 
 ## Description
 
