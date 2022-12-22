@@ -8,4 +8,8 @@ From the data we receive first a name and a value, then another name and another
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/209035931-8fd30f99-2ade-4d3b-8773-7c397986e420.jpg)
+
 Second step (Output):
+
+![output](https://user-images.githubusercontent.com/116694224/209035939-2de39a04-1ec7-4f32-903f-ef4e2c25a9de.jpg)
