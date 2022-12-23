@@ -12,6 +12,8 @@ write a function called sumOfPairs that asks for a number from 1 to 100 indefini
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/209392363-2555813a-b758-4ac7-b819-cd3a07ee79e8.jpg)
 
 Second step (Output):
 
+![output](https://user-images.githubusercontent.com/116694224/209392373-419fbfb1-32a9-4964-89f4-218f1d96de7a.jpg)
