@@ -12,5 +12,8 @@ if we select 'b' it invokes another function called 'withdraw' that will display
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/209392418-1bd06de4-352c-497e-bbcd-9f1ba13bad1a.jpg)
 
 Second step (Output):
+
+![output](https://user-images.githubusercontent.com/116694224/209392432-1c7e693a-b804-4b51-a51c-8cdb1b4fc53e.jpg)
