@@ -4,7 +4,7 @@
 
 * **Week 1 : Algorithms**
   * Week challenges (Wednesday) 💻
-    * [Pizza 🍕](https://github.com/4janel/core-code-from-scratch-readme/blob/74da02bdef859e072d4c2ca4e9a891d65bdc335a/Algorithms%20-%20Week%201/Week%20challenges%20(Wednesday)%20%F0%9F%92%BB/1.%20Pizza%20%F0%9F%8D%95/README.md)
+    * [!Pizza 🍕](https://github.com/4janel/core-code-from-scratch-readme/blob/74da02bdef859e072d4c2ca4e9a891d65bdc335a/Algorithms%20-%20Week%201/Week%20challenges%20(Wednesday)%20%F0%9F%92%BB/1.%20Pizza%20%F0%9F%8D%95/README.md)
     * [Hot N Cold 🥶](https://github.com/4janel/core-code-from-scratch-readme/blob/74da02bdef859e072d4c2ca4e9a891d65bdc335a/Algorithms%20-%20Week%201/Week%20challenges%20(Wednesday)%20%F0%9F%92%BB/2.%20Hot%20N%20Cold%20%F0%9F%A4%92%20%F0%9F%A7%8A%20%F0%9F%94%A5/README.md)
     * [Geometry 📐](https://github.com/4janel/core-code-from-scratch-readme/blob/74da02bdef859e072d4c2ca4e9a891d65bdc335a/Algorithms%20-%20Week%201/Week%20challenges%20(Wednesday)%20%F0%9F%92%BB/3.%20Some%20geometry%20%F0%9F%93%90/README.md)
   * Week challenges (Thursday) 💻
