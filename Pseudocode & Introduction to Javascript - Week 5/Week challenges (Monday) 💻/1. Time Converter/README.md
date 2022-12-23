@@ -14,5 +14,8 @@ Create a function called timeConverter that receives a positive number of second
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/209392277-81fad8bb-1fda-4388-a12b-9826ecefe8c7.jpg)
 
 Second step (Output):
+
+![output](https://user-images.githubusercontent.com/116694224/209392285-3f4a4f95-fdd5-4af4-b40e-c477cf1b90d9.jpg)
