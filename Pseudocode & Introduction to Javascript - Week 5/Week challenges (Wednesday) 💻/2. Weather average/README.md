@@ -8,4 +8,8 @@ Write an algorithm that loops indefinitely until 'x' is entered which will calcu
 
 First step (writing code):
 
+![code](https://user-images.githubusercontent.com/116694224/209392463-002e2fce-b38d-454f-b42e-cde800e1cbb2.jpg)
+
 Second step (Output):
+
+![output](https://user-images.githubusercontent.com/116694224/209392468-8ebd05a8-0b7b-4377-8eaf-e217999a42d2.jpg)
