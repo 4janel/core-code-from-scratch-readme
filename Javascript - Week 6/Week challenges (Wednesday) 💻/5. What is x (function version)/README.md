@@ -9,6 +9,11 @@ function reply(phrase) {
   return phrase;
 }
 
-let x = reply('How do you do?');
+let x = reply("How do you do?");
 ```
+
 ## Solution
+
+```
+x = 'How do you do?'
+```
