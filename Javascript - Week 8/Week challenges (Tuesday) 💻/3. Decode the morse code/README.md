@@ -1,4 +1,4 @@
-# Object syntax debug
+# Decode the morse code
 
 ## Description
 
