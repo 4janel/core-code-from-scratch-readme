@@ -11,5 +11,12 @@ The binary representation of `1234` is `10011010010`, so the function should ret
 ## Solution
 
 ```javascript
-
+var countBits = function (n) {
+  let binaryNumber = n.toString(2);
+  let oneBitCount = 0;
+  for (let i = 0; i < binaryNumber.length; i++) {
+    if (binaryNumber[i] === "1") oneBitCount++;
+  }
+  return oneBitCount;
+};
 ```

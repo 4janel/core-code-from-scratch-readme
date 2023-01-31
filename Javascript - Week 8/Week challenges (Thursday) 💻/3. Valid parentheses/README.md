@@ -20,5 +20,7 @@ Write a function that takes a string of parentheses, and determines if the order
 ## Solution
 
 ```javascript
-
+function validParentheses(parens) {
+  return [...parens].reduce((a, c) => (a + c).replace("()", ""), "") === "";
+}
 ```
